@@ -1,11 +1,15 @@
 extends layout
 
 block content
-    // YouTube Video
-    .me-video-container
-      .video-wrap
-        .video-container
-          iframe.video-content(src= videoUrl, frameborder='0', allowfullscreen='')
+    // Use YouTube Video or Self Hosted
+    if useYoutubeVideo
+      .me-video-container
+        .video-wrap
+          .video-container
+            iframe.video-content(src= youtubeVideoUrl, frameborder='0', allowfullscreen='')
+    else
+      .me-video-container
+        video.video(muted='', autoplay='', loop='', src= videoUrl)
     .fs-me
       // Content Container
       .me-content
