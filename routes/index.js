@@ -4,7 +4,9 @@ var router = express.Router();
 const data = {
   title: 'Phuc Bui (Johnny)',
   logoText: 'Johnny Phuc Bui',
-  videoUrl: 'https://www.youtube.com/embed/A9abHX_NSK4?rel=0&controls=0&showinfo=0&autoplay=1&loop=1&mute=1&playlist=A9abHX_NSK4',
+  useYoutubeVideo: false,
+  youtubeVideoUrl: 'https://www.youtube.com/embed/A9abHX_NSK4?rel=0&controls=0&showinfo=0&autoplay=1&loop=1&mute=1&playlist=A9abHX_NSK4',
+  videoUrl: './videos/background.mp4',
   githubUrl: 'https://github.com/JohnnyBui',
   websiteUrl: 'https://winme.vn',
   facebookUrl: 'https://www.facebook.com/phuc.m.bui',
