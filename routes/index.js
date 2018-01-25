@@ -9,6 +9,7 @@ const data = {
   videoUrl: 'https://res.cloudinary.com/wincorp/video/upload/background_ahbv4k.mp4',
   githubUrl: 'https://github.com/JohnnyBui',
   websiteUrl: 'https://winme.vn',
+  linkedinUrl: 'https://www.linkedin.com/in/phucbui/',
   facebookUrl: 'https://www.facebook.com/phuc.m.bui',
   instagramUrl: 'https://www.instagram.com/johnny_phucbui/',
   twitterUrl: 'https://twitter.com/PhucJohnny',
