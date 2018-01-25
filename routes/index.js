@@ -6,7 +6,7 @@ const data = {
   logoText: 'Johnny Phuc Bui',
   useYoutubeVideo: false,
   youtubeVideoUrl: 'https://www.youtube.com/embed/A9abHX_NSK4?rel=0&controls=0&showinfo=0&autoplay=1&loop=1&mute=1&playlist=A9abHX_NSK4',
-  videoUrl: './videos/background.mp4',
+  videoUrl: 'https://res.cloudinary.com/wincorp/video/upload/background_ahbv4k.mp4',
   githubUrl: 'https://github.com/JohnnyBui',
   websiteUrl: 'https://winme.vn',
   facebookUrl: 'https://www.facebook.com/phuc.m.bui',
