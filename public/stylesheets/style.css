@@ -1,6 +1,6 @@
 /* -- CSS Reset -- */
 @import url("https://fonts.googleapis.com/css?family=Share+Tech+Mono");
-@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+@import url("https://fonts.googleapis.com/css?family=Homemade+Apple");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -127,8 +127,8 @@ body.page-template-page-fullsingle-me {
         height: 90vh; } }
 
 .logo {
-  font-family: 'Indie Flower', cursive;
-  color: #f74343;
+  font-family: 'Homemade Apple', cursive;
+  color: #de6800;
   flex: 1 1 auto;
   display: flex;
   flex-direction: column;
