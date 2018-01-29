@@ -6,7 +6,7 @@
 * Jade
 
 ### Demo
-https://phucbui.me
+https://api.phucbui.me
 
 ### Run
 `npm start` for local serving
